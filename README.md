@@ -1,5 +1,8 @@
 # The Python of Wall Street
 
+### [IBM Time Series Visualization](https://mitchellcapell95.github.io/Python-Stocks/IBM2.html)
+### [GE Candlestick Chart](https://mitchellcapell95.github.io/Python-Stocks/GE.html)
+
 ## Background
 
 You are well on your way to becoming a programmer and Python master! In this homework assignment you will use python scripting via jupyter notebook to analyze real stock market data. Depending on your comfort level with python, choose your assignment from Easy, Moderate, or Hard below.
